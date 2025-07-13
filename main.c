@@ -99,7 +99,7 @@ int program(){
             int op = choice-'0';
             if(operation(op, simbols[op])){
                 f = true;
-                new_operation();
+                return new_operation();
             }
         }
         else if(choice == '5') return 5;
