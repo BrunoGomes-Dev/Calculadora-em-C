@@ -8,7 +8,7 @@ Uma calculadora de terminal feita em C, realizando as operações básicas.
 
 ### Instalação e pré-requisitos
 
-Primeiro, clone o repositório em seu computaodor. Após isto, abra o arquivo 'main.c' em um compilador de C, que aceite C99 ou posterior. Ao compilar o arquivo, um executável será criado, com o nome 'main.exe'. Ao clicar nele, uma tela de terminal rodando o programa será aberta.
+Primeiro, clone o repositório em seu computador. Após isto, abra o arquivo 'main.c' em um compilador de C, que aceite C99 ou posterior. Ao compilar o arquivo, um executável será criado, com o nome 'main.exe'. Ao clicar nele, uma tela de terminal rodando o programa será aberta.
 
 ## Uso
 
