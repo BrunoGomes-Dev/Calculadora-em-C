@@ -8,7 +8,8 @@ Uma calculadora de terminal feita em C, realizando as operações básicas.
 
 ### Instalação e pré-requisitos
 
-Primeiro, clone o repositório em seu computaodor. Após isto, abra o arquivo 'main.c' em um compilador de C, que aceite C99 ou posterior. Ao compilar o arquivo, um executável será criado, com o nome 'main.exe'. Ao clicar nele, uma tela de terminal rodando o programa será aberta.
+- Clone o repositório: Primeiro, clique em code na página do GitHub e em seguida copie o que está escrito em HTTPS. Após isto, abra um terminal CMD no local que quer clonar o repositório e execute: git clone, coloque o link na frente do comando. Outra forma é abrir a barra de pesquisa no VS Code, e digitar >Git clone. Neste caso, colocar o link quando exigido e confirmar.
+- Execute o projeto: em um compilador de C, compile o projeto e execute, os compiladores geralmente oferecem um botão de 'compilar e executar'. Escolha esta opção na primeira vez que for executar o programa, uma tela de terminal será aberta e já poderá utilizá-lo. Caso opte por executar o programa no VS Code, certifique-se de que ele está configurado para compilar e executar C. Caso ainda não esteja, siga este [tutorial](https://neps.academy/br/course/introducao-a-programacao/lesson/instalando-a-ide) ou [este](https://professored.wordpress.com/2024/09/12/tutorial-compilando-e-rodando-programas-em-linguagem-c-no-windows-no-vscode/).
 
 ## Uso
 
